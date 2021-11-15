@@ -64,7 +64,7 @@
     "@types/inflection": "^1.13.0",
     "@types/node-fetch": "^2.5.12",
     "@types/pluralize": "^0.0.29",
-    "@types/prettier": "^2.4.1",
+    "@types/prettier": "^2.4.2",
     "@types/prompts": "^2.0.14",
     "@types/react": "^17.0.34",
     "@types/source-map-support": "^0.5.4",
@@ -124,7 +124,7 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "@testing-library/dom": "^8.11.0",
+    "@testing-library/dom": "^8.11.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "@types/bytes": "^3.1.1",
